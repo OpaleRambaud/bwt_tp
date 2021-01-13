@@ -23,7 +23,6 @@ This program is written in python 3.
 
 ```
 python bwt.py -f my_seq.fasta -r my_reads.fasta 
-
 ```
 
 **Please make sur you have the two files request in argument in your directory before.**
