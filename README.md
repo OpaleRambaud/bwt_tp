@@ -1,9 +1,10 @@
-# bwt_tp
+# Burrows-Wheeler transform based alignments
 
 ## Authors : 
 
 Pichon Julien , Rambaud Opale 
 
+## Informations :
 
 This program allows to align reads with a reference sequence thanks to the Burrows-Wheeler transform.
 
@@ -11,7 +12,7 @@ This program allows to align reads with a reference sequence thanks to the Burro
 This program is written in python 3.
 
 
-# To run the program :
+## To run the program :
 
 
 1. Get the program by cloning this directory 
