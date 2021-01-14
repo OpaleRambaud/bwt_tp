@@ -29,4 +29,4 @@ python bwt.py -f my_seq.fasta -r my_reads.fasta
 Those files are too big to add it on this git 
 Please dowlong them with the following link :**
 
- [Lien wetransfert](https://wetransfer.com/downloads/4dc5349b5ab7ebbcf7d08eed1caca2e120210114115306/db539d?fbclid=IwAR2WDRsOixKL67fgRLCXve7RgajjZYF4f2ZOf3DcB8j3uneUzY66mmPv-Xg) 
+ [wetransfert link](https://wetransfer.com/downloads/4dc5349b5ab7ebbcf7d08eed1caca2e120210114115306/db539d?fbclid=IwAR2WDRsOixKL67fgRLCXve7RgajjZYF4f2ZOf3DcB8j3uneUzY66mmPv-Xg) 
