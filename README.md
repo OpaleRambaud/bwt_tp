@@ -6,7 +6,7 @@ Pichon Julien , Rambaud Opale
 
 ## Informations :
 
-This program allows to align reads with a reference sequence thanks to the Burrows-Wheeler transform.
+This program allows to align reads with a reference sequence by the Burrows-Wheeler transform.
 
 
 This program is written in python 3.
