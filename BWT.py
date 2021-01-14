@@ -1,5 +1,5 @@
 """
-This program allows to align reads with a reference sequence thanks to the Burrows-Wheeler transform.
+This program allows to align reads with a reference sequence by the Burrows-Wheeler transform.
 
 Authors : Pichon Julien , Rambaud Opale
 
